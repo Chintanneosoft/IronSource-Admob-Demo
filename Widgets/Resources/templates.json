@@ -1,0 +1,66 @@
+[
+    
+{
+    "type" : "calendar",
+    "templateId" : "color_calendar1",
+    "bg" : "c1",
+    "headingLabelFont" : "Franky",
+    "subHeadingLabelFont" : "KakkoiRegular",
+    "subHeadingLabel2Font" : "BrightonsRegular",
+    "overlayColor" : "#000000",
+    "overlayAlpha" : 0,
+    "borderWidth" : 0,
+    "borderColor" : "#ffffff",
+    "headingLabelTextColor" : "#ffffff",
+    "headingLabelTextAlpha" : 0.4,
+    "subHeadingLabelTextColor" : "#f4b41a",
+    "subHeadingLabeTextAlpha" : 0.8,
+    "subHeadingLabel2TextColor" : "#ffffff",
+    "subHeadingLabel2TextAlpha" : 0.7,
+    "isPro" : 0,
+    "variants" : [
+         {
+             "size" : "small",
+                         "headingLabelFontSize" : 80,
+                         "subHeadingLabelFontSize" : 25,
+                         "subHeadingLabel2FontSize" : 15,
+                         "headingLabelTopPadding" : 70,
+                         "headingLabelLeftPadding" : 0,
+                         "subHeadingLabelTopPadding" : 20,
+                         "subHeadingLabelLeftPadding" : 15,
+                         "subHeadingLabel2TopPadding" : 0,
+                         "subHeadingLabel2LeftPadding" : 0,
+                         "dateFormat": "EEEE\ndd MMMM",
+                         "timeFormat": "h:mm"
+        },
+         {
+             "size" : "medium",
+            "headingLabelFontSize" : 140,
+            "subHeadingLabelFontSize" : 28,
+            "subHeadingLabel2FontSize" : 15,
+            "headingLabelTopPadding" : 10,
+            "headingLabelLeftPadding" : 0,
+            "subHeadingLabelTopPadding" : 20,
+            "subHeadingLabelLeftPadding" : 25,
+            "subHeadingLabel2TopPadding" : 0,
+            "subHeadingLabel2LeftPadding" : 0,
+            "dateFormat": "EEEE dd MMMM",
+            "timeFormat": "h:mm"
+        },
+         {
+            "size" : "large",
+            "headingLabelFontSize" : 150,
+            "subHeadingLabelFontSize" : 45,
+            "subHeadingLabel2FontSize" : 15,
+            "headingLabelTopPadding" : 0,
+            "headingLabelLeftPadding" : 15,
+            "subHeadingLabelTopPadding" : 200,
+            "subHeadingLabelLeftPadding" : 15,
+            "subHeadingLabel2TopPadding" : 0,
+            "subHeadingLabel2LeftPadding" : 0,
+            "dateFormat": "EEEE\ndd MMMM",
+            "timeFormat": "h:mm"
+        }
+    ]
+}
+]

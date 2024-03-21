@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Color Widgets</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>$(PRODUCT_BUNDLE_PACKAGE_TYPE)</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.widgetkit-extension</string>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Montserrat-Black.ttf</string>
+		<string>Montserrat-ExtraBoldItalic.ttf</string>
+		<string>Montserrat-BoldItalic.ttf</string>
+		<string>Montserrat-ExtraBold.ttf</string>
+		<string>Montserrat-MediumItalic.ttf</string>
+		<string>Montserrat-ExtraLight.ttf</string>
+		<string>Montserrat-ExtraLightItalic.ttf</string>
+		<string>Montserrat-Bold.ttf</string>
+		<string>Montserrat-Regular.ttf</string>
+		<string>Montserrat-Medium.ttf</string>
+		<string>Montserrat-SemiBold.ttf</string>
+		<string>Montserrat-LightItalic.ttf</string>
+		<string>Montserrat-ThinItalic.ttf</string>
+		<string>RockoFLF.ttf</string>
+		<string>LilyScriptOne-Regular.ttf</string>
+		<string>Montserrat-Light.ttf</string>
+		<string>Montserrat-SemiBoldItalic.ttf</string>
+		<string>Montserrat-Italic.ttf</string>
+		<string>Montserrat-BlackItalic.ttf</string>
+		<string>RockoFLF-Bold.ttf</string>
+		<string>Montserrat-Thin.ttf</string>
+		<string>Organo.ttf</string>
+		<string>Monserga-regular-FFP.ttf</string>
+		<string>Typo_Round_Bold_Italic_Demo.otf</string>
+		<string>Typo_Round_Italic_Demo.otf</string>
+		<string>Typo_Round_Thin_Italic Demo.otf</string>
+		<string>Typo_Round_Light_Demo.otf</string>
+		<string>YoureInvited.otf</string>
+		<string>Typo_Round_Thin_Demo.otf</string>
+		<string>Brightons-ZVGXl.ttf</string>
+		<string>Typo_Round_Regular_Demo.otf</string>
+		<string>Typo_Round_Bold_Demo.otf</string>
+		<string>Typo_Round_Light_Italic_Demo.otf</string>
+		<string>The Delicate DEMO.ttf</string>
+		<string>RockoUltraFLF.ttf</string>
+		<string>RockoUltraFLF-Bold.ttf</string>
+		<string>Optien.ttf</string>
+		<string>Cameronsansbold-Brd5.ttf</string>
+		<string>DenseLetters-nRgDO.otf</string>
+		<string>junegull.ttf</string>
+		<string>SweetSensationsPersonalUse-lRgq.ttf</string>
+		<string>DancingScript-Regular.ttf</string>
+		<string>ALBA____.TTF</string>
+		<string>DancingScript-Bold.ttf</string>
+		<string>AlexBrush-Regular.ttf</string>
+		<string>ALBAM___.TTF</string>
+		<string>Allura-Regular.ttf</string>
+		<string>SilverForte-4qKp.ttf</string>
+		<string>AmericanCaptain-MdEY.otf</string>
+		<string>ChocolatedealerBold-534x.otf</string>
+		<string>teen bd it.ttf</string>
+		<string>teen bd.ttf</string>
+		<string>SmellADaisyPersonalUse-MVpdn.ttf</string>
+		<string>ALBAS___.TTF</string>
+		<string>teen it.ttf</string>
+		<string>Skatersdemo-ZVqmm.ttf</string>
+		<string>Typographica-Blp5.ttf</string>
+		<string>Cameronsanslight-MXBr.ttf</string>
+		<string>TheBrands-K7BxD.otf</string>
+		<string>DiezmaRdExtraBold-jGpy.ttf</string>
+		<string>DisciplinaDemo-BWGld.ttf</string>
+		<string>MomcakeBold-WyonA.otf</string>
+		<string>ManhandleSlab-2e9X.ttf</string>
+		<string>teen lt it.ttf</string>
+		<string>monogeb_.ttf</string>
+		<string>LandasansUltraLight-qZ080.otf</string>
+		<string>DreamwoodDemoRegular-Zj3q.ttf</string>
+		<string>DulkanycaBold-2R3e.ttf</string>
+		<string>Franky-3zZMp.otf</string>
+		<string>Kakkoi-ywjl3.otf</string>
+		<string>LandasansMedium-ALJ6m.otf</string>
+		<string>Kindsonfree-x3voV.otf</string>
+	</array>
+</dict>
+</plist>

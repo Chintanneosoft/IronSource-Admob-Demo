@@ -1,0 +1,582 @@
+[
+  {
+    "quote" : "Corporation. An ingenious device for obtaining individual profit without individual responsibility.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Education is that which discloses to the wise and disguises from the foolish their lack of understanding.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "A body of water occupying about two-thirds of a world made for man, who has no gills.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "A coward is one who in a perilous emergency thinks with his legs.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "A cynic is a blackguard whose faulty vision sees things as they are, and not as they ought to be.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "A funeral is a pageant whereby we attest our respect for the dead by enriching the undertaker.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "A lowly virtue whereby mediocrity achieves a glorious success.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "A man is known by the company he organizes.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "A prejudice is a vagrant opinion without visible means of support.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "A route of many roads leading from nowhere to nothing.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "A temporary insanity curable by marriage.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Ability is commonly found to consist mainly in a high degree of solemnity.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Abscond. To ''move'' in a mysterious way, commonly with the property of another.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Abstainer. A weak man who yields to the temptation of denying himself a pleasure.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Absurdity. A statement or belief manifestly inconsistent with one's own opinion.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Acquaintance. A person whom we know well enough to borrow from, but not well enough to lend to.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Admiral. That part of a warship which does the talking while the figurehead does the thinking.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Admiration; is our polite recognition of another's resemblance to ourselves.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Alien. An American sovereign in his probationary state.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "All are lunatics, but he who can analyze his delusion is called a philosopher.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Ambidextrous, adj.: Able to pick with equal skill a right-hand pocket or a left.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Ambition. An overmastering desire to be vilified by enemies while living and made ridiculous by friends when dead.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Amnesty, n. The state's magnanimity to those offenders whom it would be too expensive to punish.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "An accident is an inevitable occurrence due to the actions of immutable natural laws.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "An acquaintance is someone we know well enough to borrow from, but not well enough to lend to.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "An egotist is a person interested in himself than in me!",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "An egotist is a person of low taste - more interested in himself than in me.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "An optimist is a proponent of the doctrine that black is white.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Anoint, v.: To grease a king or other great functionary already sufficiently slippery.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Appeal. In law, to put the dice into the box for another throw.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Architect. One who drafts a plan of your house, and plans a draft of your money.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Ardor, n. The quality that distinguishes love without knowledge.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Bacchus, n.: A convenient deity invented by the ancients as an excuse for getting drunk.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Backbite. To ''speak of a man as you find him'' when he can't find you.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Barometer, n.: An ingenious instrument which indicates what kind of weather we are having.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Battle, n., A method of untying with the teeth a political knot that would not yield to the tongue.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Beauty. The power by which a woman charms a lover and terrifies a husband.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Before undergoing a surgical operation, arrange your temporal affairs. You may live.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Bigot, one who is obstinately and zealously attached to an opinion that you do not entertain.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Bigot: One who is obstinately and zealously attached to an opinion that you do not entertain.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Bore - a person who talks when you wish him to listen.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Brain: an apparatus with which we think we think.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Bride. A woman with a fine prospect of happiness behind her.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Cabbage: A familiar kitchen-garden vegetable about as large and wise as a man's head.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Calamities are of two kinds: misfortune to ourselves, and good fortune to others.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Calamities are of two kinds: misfortunes to ourselves, and good fortune to others.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Confidante. One entrusted by A with the secrets of B confided to herself by C.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Consult. To seek another's approval of a course already decided on.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Convent. A place of retirement for women who wish for leisure to meditate upon the sin of idleness.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Creditor. One of a tribe of savages dwelling beyond the Financial Straits and dreaded for their desolating incursions.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Dawn: When men of reason go to bed.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Day, n. A period of twenty-four hours, mostly misspent.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Death is not the end. There remains the litigation over the estate.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Debt, n. An ingenious substitute for the chain and whip of the slavedriver.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Deliberation. The act of examining one's bread to determine which side it is buttered on.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Destiny. A tyrant's authority for crime and a fool's excuse for failure.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Divorce. A resumption of diplomatic relations and rectification of boundaries.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Dog. A kind of additional or subsidiary Deity designed to catch the overflow and surplus of the world's worship.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Don't steal; thou it never thus compete successfully in business. Cheat.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Duty. That which sternly impels us in the direction of profit, along the line of desire.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Egotism, n: Doing the New York Times crossword puzzle with a pen.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Egotist. A person of low taste, more interested in himself than me.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Egotist: a person more interested in himself than in me.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Erudition. Dust shaken out of a book into an empty skull.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Eulogy. Praise of a person who has either the advantages of wealth and power, or the consideration to be dead.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Every time Europe looks across the Atlantic to see the American eagle, it observes only the rear end of an ostrich.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Experience is a revelation in the light of which we renounce our errors of youth for those of age.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Faith. Belief without evidence in what is told by one who speaks without knowledge, of things without parallel.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Fidelity. A virtue peculiar to those who are about to be betrayed.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Forgetfulness. A gift of God bestowed upon debtors in compensation for their destitution of conscience.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Fork: An instrument used chiefly for the purpose of putting dead animals into the mouth.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Friendless. Having no favors to bestow. Destitute of fortune. Addicted to utterance of truth and common sense.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Future: That period of time in which our affairs prosper, our friends are true and our happiness is assured.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Genealogy. An account of one's descent from an ancestor who did not particularly care to trace his own.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Genius - to know without having learned; to draw just conclusions from unknown premises; to discern the soul of things.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Habit is a shackle for the free.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Happiness is an agreeable sensation, arising from contemplating the misery of others.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Heaven lies about us in our infancy and the world begins lying about us pretty soon afterward.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "I never said all Democrats were saloonkeepers. What I said was that all saloonkeepers are Democrats.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "I think I think, therefore, I think I am.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Impartial. Unable to perceive any promise of personal advantage from espousing either side of a controversy.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Impiety. Your irreverence toward my deity.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Incompatibility. In matrimony a similarity of tastes, particularly the taste for domination.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Insurrection. An unsuccessful revolution; disaffection's failure to substitute misrule for bad government.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Inventor: A person who makes an ingenious arrangement of wheels, levers and springs, and believes it civilization.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Irreligion. The principal one of the great faiths of the world.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "It is evident that skepticism, while it makes no actual change in man, always makes him feel better.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Knowledge is the small part of ignorance that we arrange and classify.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Laziness. Unwarranted repose of manner in a person of low degree.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Learning. The kind of ignorance distinguishing the studious.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Life. A spiritual pickle preserving the body from decay.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Litigant. A person about to give up his skin for the hope of retaining his bones.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Litigation: A machine which you go into as a pig and come out of as a sausage.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Love is temporary insanity curable by marriage.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Mad, adj. Affected with a high degree of intellectual independence.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Marriage. The state or condition of a community consisting of a master, a mistress and two slaves, making in all, two.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Mayonnaise: One of the sauces which serve the French in place of a state religion.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Meekness: Uncommon patience in planning a revenge that is worth while.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Opiate. An unlocked door in the prison of Identity. It leads into the jail yard.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Optimism. The doctrine or belief that everything is beautiful, including what is ugly.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Painting: The art of protecting flat surfaces from the weather and exposing them to the critic.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Patience. A minor form of despair disguised as a virtue.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Patriotism. Combustible rubbish ready to the torch of any one ambitious to illuminate his name.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Peace, in international affairs, is a period of cheating between two periods of fighting.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Physician - One upon whom we set our hopes when ill and our dogs when well.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Politeness - The most acceptable hypocrisy.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Pray. To ask the laws of the universe to be annulled on behalf of a single petitioner confessedly unworthy.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Pray: To ask the laws of the universe to be annulled on behalf of a single petitioner confessedly unworthy.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Prescription: A physician's guess at what will best prolong the situation with least harm to the patient.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Present, n. That part of eternity dividing the domain of disappointment from the realm of hope.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Quotation: the act of repeating erroneously the words of another.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Religion. A daughter of Hope and Fear, explaining to Ignorance the nature of the Unknowable.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Reporter: A writer who guesses his way to the truth and dispels it with a tempest of words.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Reverence: the spiritual attitude of a man to a god and a dog to a man.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Revolution is an abrupt change in the form of misgovernment.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Rum, n. Generically, fiery liquors that produce madness in total abstainers.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Saint. A dead sinner revised and edited.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Self-denial is indulgence of a propensity to forego.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Speak when you are angry and you will make the best speech you will ever regret.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Success is the one unpardonable sin against one's fellows.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Take not God's name in vain; select a time when it will have effect.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "The act of repeating erroneously the words of another.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "The are and practice of selling one's credibility for future delivery.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "The covers of this book are too far apart.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "The gambling known as business looks with austere disfavor upon the business known as gambling.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "The gambling known as business looks with severe disfavor on the business known as gambling.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "The hardest tumble a man can make is to fall over his own bluff.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "The ocean is a body of water occupying about two-thirds of a world made for man - who has no gills.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "The Senate is a body of old men charged with high duties and misdemeanors.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "The slightest acquaintance with history shows that powerful republics are the most warlike and unscrupulous of nations.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "The world has suffered more from the ravages of ill-advised marriages than from virginity.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "There are four kinds of homicide: felonious, excusable, justifiable and praiseworthy.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "There is nothing new under the sun but there are lots of old things we don't know.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "They say that hens do cackle loudest when there is nothing vital in the eggs they have laid.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Think twice before you speak to a friend in need.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "To apologize is to lay the foundation for a future offense.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "To be positive: To be mistaken at the top of one's voice.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "To bother about the best method of accomplishing an accidental result.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Trial. A formal inquiry designed to prove and put upon record the blameless characters of judges, advocates and jurors.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Truth - An ingenious compound of desirability and appearance.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Vote: the instrument and symbol of a freeman's power to make a fool of himself and a wreck of his country.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "War is God's way of teaching Americans geography.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "When in Rome, do as Rome does.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Wit. The salt with which the American humorist spoils his intellectual cookery by leaving it out.",
+    "auther" : "Ambrose Bierce"
+  },
+  {
+    "quote" : "Woman absent is woman dead.",
+    "auther" : "Ambrose Bierce"
+  }
+]

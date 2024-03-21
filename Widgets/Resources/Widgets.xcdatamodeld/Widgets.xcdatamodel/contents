@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19G2021" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="WidgetCollection" representedClassName="WidgetCollection" syncable="YES" codeGenerationType="class">
+        <attribute name="background" optional="YES" attributeType="String"/>
+        <attribute name="borderColor" optional="YES" attributeType="String"/>
+        <attribute name="borderWidth" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="dueDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="headingLabelFont" optional="YES" attributeType="String"/>
+        <attribute name="headingLabelTextAlpha" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="headingLabelTextColor" optional="YES" attributeType="String"/>
+        <attribute name="headingText" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="inputText" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="overlayAlpha" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="overlayColor" optional="YES" attributeType="String"/>
+        <attribute name="photos" optional="YES" attributeType="String"/>
+        <attribute name="quotes" optional="YES" attributeType="String"/>
+        <attribute name="subHeading2Text" optional="YES" attributeType="String"/>
+        <attribute name="subHeadingLabel2Font" optional="YES" attributeType="String"/>
+        <attribute name="subHeadingLabel2TextAlpha" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="subHeadingLabel2TextColor" optional="YES" attributeType="String"/>
+        <attribute name="subHeadingLabelFont" optional="YES" attributeType="String"/>
+        <attribute name="subHeadingLabelTextColor" optional="YES" attributeType="String"/>
+        <attribute name="subHeadingLabeTextAlpha" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="subHeadingText" optional="YES" attributeType="String"/>
+        <attribute name="templateId" optional="YES" attributeType="String"/>
+        <attribute name="textAlignment" optional="YES" attributeType="String"/>
+        <attribute name="type" optional="YES" attributeType="String"/>
+        <attribute name="varients" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="WidgetCollection" positionX="-63" positionY="-18" width="128" height="448"/>
+    </elements>
+</model>
